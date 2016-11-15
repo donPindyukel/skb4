@@ -26,5 +26,5 @@ export default (ctx) => {
     })
   })
 
-	return api;
+	return api
 }
